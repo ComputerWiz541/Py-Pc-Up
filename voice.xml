@@ -1,4 +1,3 @@
 <Response>
-	<Say voice="woman">Thanks for trying our documentation. Enjoy!</Say>
-	<Play>https://raw.githubusercontent.com/ComputerWiz541/Py-Pc-Up/main/Ju%2087%20Stuka%20siren.mp3</Play>
+	<Say voice="woman">Hungry</Say>
 </Response>
